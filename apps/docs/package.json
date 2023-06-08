@@ -9,12 +9,12 @@
     "clean": "rm -rf .turbo && rm -rf node_modules"
   },
   "dependencies": {
-    "@rtvlib/core": "0.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@rtvlib/tsconfig": "0.0.0",
+    "@rtvlib/core": "0.0.1",
+    "@rtvlib/tsconfig": "0.0.1",
     "@storybook/addon-actions": "^6.5.14",
     "@storybook/addon-docs": "^6.5.14",
     "@storybook/addon-essentials": "^6.5.14",
@@ -24,7 +24,7 @@
     "@storybook/react": "^6.5.14",
     "@vitejs/plugin-react": "^1.3.2",
     "autoprefixer": "^10.4.14",
-    "@rtvlib/eslint-config": "0.0.0",
+    "@rtvlib/eslint-config": "0.0.1",
     "serve": "^13.0.4",
     "tailwindcss": "^3.3.2",
     "typescript": "^4.9.3",

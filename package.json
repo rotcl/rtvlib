@@ -14,7 +14,6 @@
   "devDependencies": {
     "@changesets/cli": "^2.25.2",
     "eslint": "^8.29.0",
-    "@rtvlib/eslint-config": "0.0.0",
     "prettier": "^2.8.0",
     "turbo": "latest"
   },

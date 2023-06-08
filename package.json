@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "repository": "git@github.com:rotcl/rtv-lib.git",
   "scripts": {
     "build": "turbo run build",

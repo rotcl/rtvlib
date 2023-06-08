@@ -1,7 +1,7 @@
 {
   "name": "@rtvlib/docs",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "start-storybook -p 6006",
     "build": "build-storybook --docs",

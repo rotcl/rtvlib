@@ -1,0 +1,1 @@
+import "@rtvlib/configs/tailwind/styles.css";

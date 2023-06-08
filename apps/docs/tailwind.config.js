@@ -1,0 +1,1 @@
+module.exports = require("@rtvlib/configs/tailwind/tailwind.config");
